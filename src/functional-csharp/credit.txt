@@ -1,0 +1,1 @@
+For some of the functional examples, credit to the book 'Functional Programming in C#' by Enrico Buonanno.

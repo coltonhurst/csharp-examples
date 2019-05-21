@@ -4,7 +4,7 @@
 
 using System;
 
-namespace csharp_data_structures
+namespace data_structures
 {
     public class GenericsExample
     {
