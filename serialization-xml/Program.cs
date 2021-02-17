@@ -1,5 +1,8 @@
 ﻿/*
     This is an example of serializing an object with XML.
+    In short, serialization allows us to "store" the state of an object
+    for future use.
+    We can later "restore" the state of the object easily.
 
     We have a Car class that has a Name, Gas, and Color.
 
