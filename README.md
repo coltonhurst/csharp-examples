@@ -5,3 +5,4 @@ Different concepts and examples in the [C# programming language](https://docs.mi
 ## Examples
 
 - [Object Serialization with XML](./serialization-xml/Program.cs)
+- [Tuples](./tuples/Program.cs)
