@@ -6,7 +6,9 @@ Different concepts and examples in the [C# programming language](https://docs.mi
 
 - [Object Serialization with XML](./serialization-xml/Program.cs)
 - [Tuples](./tuples/Program.cs)
-- [Threads](./threads-basic/Program.cs)
+- Threads
+  - [Basic Threading](./threads-basic/Program.cs)
+  - [Join & Sleep](./threads-join-sleep/Program.cs)
 
 ## Building
 

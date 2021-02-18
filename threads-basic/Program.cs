@@ -9,6 +9,8 @@
     In this example we still get blocks of A's and B's due to subtleties
     in how `Console` handles concurrent requests.
 
+    Notes:
+
     - A thread's `IsAlive` property will return true once it's started and until it ends.
     - Once ended, a thread cannot restart. It ends when the delegate passed to the Thread's
       constructor finishes executing.
